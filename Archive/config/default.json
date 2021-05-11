@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost:27017/flupper",
+  "jwtSecret": "jwtSecretToken",
+  "jwtExpiration": 360000,
+  "saltingRound": 5
+}
